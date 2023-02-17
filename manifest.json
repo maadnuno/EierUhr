@@ -1,0 +1,10 @@
+{
+    "name": "Madis Eggs",
+    "short_name": "Madis Eggs",
+    "theme_color": "#c29a75",
+    "background_color": "#c29a75",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+  }
